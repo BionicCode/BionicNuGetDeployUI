@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BionicCode.BionicNuGetDeploy.Main", "BionicCode.BionicNuGetDeploy.Main\BionicCode.BionicNuGetDeploy.Main.csproj", "{63F75A67-0304-481B-AFF3-BD68B6F75E44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63F75A67-0304-481B-AFF3-BD68B6F75E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F75A67-0304-481B-AFF3-BD68B6F75E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F75A67-0304-481B-AFF3-BD68B6F75E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F75A67-0304-481B-AFF3-BD68B6F75E44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E738FCBF-EBB2-4D17-9C2E-0E08154C0FA8}
+	EndGlobalSection
+EndGlobal
